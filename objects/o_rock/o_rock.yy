@@ -1,8 +1,8 @@
 {
-    "id": "614b0a7e-6832-474d-954e-ce426e8a9817",
+    "id": "ca554338-fd71-402b-87f8-0475603f380c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_player",
+    "name": "o_rock",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "77c80775-8620-4a89-85fe-c58f6935afce",
+    "spriteId": "28501223-894d-4eda-b43e-c28c60928481",
     "visible": true
 }
