@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "2c76e0ab-58a3-4b01-81fe-26988629b99a",
+            "Value": {
+                "id": "a07509cf-7b3d-4600-a916-84e97493def0",
+                "resourcePath": "sprites\\s_tree3\\s_tree3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2cd195c9-5b47-491c-b539-a3b9d2199e58",
             "Value": {
                 "id": "53833fc3-080f-4a1b-899a-152831b22d72",
@@ -255,10 +263,42 @@
             }
         },
         {
+            "Key": "b626687c-4810-4583-85a6-2a856433a7e5",
+            "Value": {
+                "id": "0e59ce97-fe6b-4001-bab8-2c08ee94a1f0",
+                "resourcePath": "sprites\\s_grass2\\s_grass2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b99e02e8-6bc1-4a7c-8902-08e9176a3b1d",
+            "Value": {
+                "id": "bb04fbbf-1637-4c7e-a54d-ee0bde552e40",
+                "resourcePath": "sprites\\s_tree4\\s_tree4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bd01908d-4310-4cac-bd75-c5aa853943bd",
             "Value": {
                 "id": "cecffb74-9406-442a-8883-908a5321fa57",
                 "resourcePath": "sprites\\s_right\\s_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bf7f107b-7584-415b-b525-040d4a3130d1",
+            "Value": {
+                "id": "b19d1f98-00e4-4a77-b4bd-1dbde5993288",
+                "resourcePath": "sprites\\s_grass4\\s_grass4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bffc83e5-06a7-40e6-b75b-bcfeb87bcd40",
+            "Value": {
+                "id": "d3287686-30ef-4572-aa43-81e9f36653ed",
+                "resourcePath": "sprites\\s_grass3\\s_grass3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -347,6 +387,14 @@
             "Value": {
                 "id": "23d04af2-327c-4b05-a4b1-0c7a3cff8c5b",
                 "resourcePath": "sprites\\s_drone1\\s_drone1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f9554e41-c0d5-4ffc-9911-bb4b81ab2b40",
+            "Value": {
+                "id": "e0f325e0-6b4b-4b5f-94a0-cb1dc441e557",
+                "resourcePath": "sprites\\s_tree2\\s_tree2.yy",
                 "resourceType": "GMSprite"
             }
         }
