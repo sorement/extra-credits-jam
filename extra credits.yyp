@@ -351,14 +351,6 @@
             }
         },
         {
-            "Key": "ca554338-fd71-402b-87f8-0475603f380c",
-            "Value": {
-                "id": "5c406fa5-5d90-4651-91a1-55a7cdb4ab2f",
-                "resourcePath": "objects\\o_rock\\o_rock.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "18f01057-266e-4bfd-a757-d513858463a2",
