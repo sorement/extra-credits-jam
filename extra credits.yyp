@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "10189466-3525-4f55-9c38-e0567839dc85",
+            "Value": {
+                "id": "94244469-79f8-462b-b712-48ba6ec0ea19",
+                "resourcePath": "tilesets\\tileset2\\tileset2.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "1474dd1c-c5c2-4deb-9a27-0805e13277c0",
             "Value": {
                 "id": "47cd9e34-adea-4f59-a2a0-b658a1dffc6f",
@@ -92,6 +100,14 @@
                 "id": "53833fc3-080f-4a1b-899a-152831b22d72",
                 "resourcePath": "views\\2cd195c9-5b47-491c-b539-a3b9d2199e58.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2d70bbac-a822-4f72-8a76-2cea7d08e3c4",
+            "Value": {
+                "id": "71fe94f1-a70e-42ab-8bba-012ba19107e2",
+                "resourcePath": "tilesets\\tileset1\\tileset1.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -162,7 +178,7 @@
             "Key": "614b0a7e-6832-474d-954e-ce426e8a9817",
             "Value": {
                 "id": "c6a7de96-26f2-4a77-adb9-7c53316d71c4",
-                "resourcePath": "objects\\player\\player.yy",
+                "resourcePath": "objects\\o_player\\o_player.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -212,6 +228,14 @@
                 "id": "d1a9c0a8-84d2-4b58-b9d6-ecfe4d1c2a19",
                 "resourcePath": "sprites\\s_blue\\s_blue.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7e443749-7250-4175-ad31-f807ff3bef58",
+            "Value": {
+                "id": "90c8213b-8e61-443a-9abe-b476bafb1d60",
+                "resourcePath": "tilesets\\tileset3\\tileset3.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -314,7 +338,7 @@
             "Key": "ca554338-fd71-402b-87f8-0475603f380c",
             "Value": {
                 "id": "5c406fa5-5d90-4651-91a1-55a7cdb4ab2f",
-                "resourcePath": "objects\\object3\\object3.yy",
+                "resourcePath": "objects\\o_rock\\o_rock.yy",
                 "resourceType": "GMObject"
             }
         },
